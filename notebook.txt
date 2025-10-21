@@ -1,0 +1,7 @@
+create env
+why specificaly
+it is necessarey to make any proeject because it waants libraries ,packages
+u alsways maintain try to entire with a separate env to not to get any conflict with future proeject
+
+
+
