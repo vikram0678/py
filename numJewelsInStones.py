@@ -7,3 +7,4 @@ def numJewelsInStones(jewels, stones):
     return count
 jewels = "aA", stones = "aAAbbbb"
 print(numJewelsInStones(jewels, stones))  # Output: 3
+ 
