@@ -27,6 +27,7 @@ class Solution:
             else:
                 max_consonents = max(freq[char], max_consonents)
         return max_vowels + max_consonents
+        
 
 s="successes"
 print(maxFreqSum(s))
