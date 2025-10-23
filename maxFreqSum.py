@@ -1,3 +1,13 @@
+# Find Most Frequent Vowel and Consonant
+
+##  This program finds the most frequent vowel and consonant in a given lowercase string.  
+##  It calculates their frequencies and returns the sum of both maximum frequencies.  
+
+## Example  
+##  Input: `successes` → Output: `6`  
+##  Input: `aeiaeia` → Output: `3`  
+
+
 class Solution:
     def maxFreqSum(self, s: str) -> int:
         vowels = set("aeiou")
