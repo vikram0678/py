@@ -3,7 +3,7 @@
 ##  This program finds the most frequent vowel and consonant in a given lowercase string.  
 ##  It calculates their frequencies and returns the sum of both maximum frequencies.  
 
-## Example  
+##  Example  
 ##  Input: `successes` → Output: `6`  
 ##  Input: `aeiaeia` → Output: `3`  
 
