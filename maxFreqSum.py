@@ -31,7 +31,8 @@ class Solution:
 
 s="successes"
 print(maxFreqSum(s))
-
+s = "aeioaio"
+print(maxFreqSum(s))
 
 
 
